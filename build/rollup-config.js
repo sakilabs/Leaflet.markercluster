@@ -3,7 +3,7 @@
 
 import inject from '@rollup/plugin-inject';
 import rollupGitVersion from 'rollup-plugin-git-version'
-import json from 'rollup-plugin-json'
+import json from '@rollup/plugin-json'
 
 import gitRev from 'git-rev-sync'
 
